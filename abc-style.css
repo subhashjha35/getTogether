@@ -1,0 +1,19 @@
+body{
+    background-color: #3a8041;
+}
+.first{
+    background-color: #ff3958;
+    padding:10px 200px;
+    border-radius: 10px;
+    color:#fff;
+    font-family: "Comic Sans MS";
+    font-size:20px;
+}
+.second{
+    background-color: #009400;
+    padding:10px 200px;
+    border-radius: 10px;
+    color:#fff;
+    font-family: "Comic Sans MS";
+    font-size:20px;
+}

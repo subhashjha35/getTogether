@@ -1,0 +1,32 @@
+body
+{
+	padding-top:50px;
+}
+
+#headWrapper
+{
+	position:relative;
+	padding:0px;
+	margin:0px;
+	height:600px;
+	overflow:hidden;
+	background-size: 100% 600px;
+	background-image:url(../images/bg2.jpg);
+	background-attachment: fixed;
+}
+#logoText
+{
+	/*position:absolute;*/
+	width: 600px;
+	height:100px;
+	text-align: center;
+	font-size: 40px;
+	color:#fff;
+	display:block;
+	border: 2px solid #fff;
+	margin:300px auto;
+}
+.main-content .product-box img
+{
+	max-width:100%;
+}
